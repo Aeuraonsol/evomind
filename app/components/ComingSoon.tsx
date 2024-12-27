@@ -15,11 +15,11 @@ export default function ComingSoon() {
   }, [])
 
   if (!mounted) {
-    return null // 在客户端挂载前不渲染任何内容
+    return null
   }
 
   return (
-    <div className="fixed top-24 left-1/2 -translate-x-1/2 z-20">
+    <div className="fixed top-16 left-1/2 -translate-x-1/2 z-20">
       <div className="relative">
         <div className="bg-black/30 backdrop-blur-md px-6 py-2 rounded-full 
                       border border-blue-500/30 shadow-[0_0_20px_-5px_rgba(59,130,246,0.5)]
