@@ -5,7 +5,7 @@ export default function Home() {
     { 
       title: 'X', 
       description: 'Follow our latest updates and join the conversation about AI personality evolution',
-      href: 'https://twitter.com/your-twitter-handle'
+      href: 'https://x.com/evominddotfun'
     },
     { 
       title: 'EvoMind Token', 
