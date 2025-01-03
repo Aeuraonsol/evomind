@@ -10,7 +10,7 @@ export default function Home() {
     { 
       title: 'EvoMind Token', 
       description: 'Discover the future of AI evolution through our innovative token ecosystem',
-      href: 'https://www.pump.fun/DLtYzqZEeYryMAzVY57JrVG8gZf8j5M74Ub5UetNt5Ew'
+      href: 'https://www.pump.fun/'
     },
     { 
       title: 'Document', 
