@@ -27,7 +27,7 @@ export default function ComingSoon() {
           <div className="flex items-center space-x-2">
             <div className="w-2 h-2 bg-blue-500 rounded-full animate-pulse"></div>
             <span className="text-blue-300 font-['Monaco'] tracking-wider text-sm">
-              CA:0x02975a0995920c498a3ae6ca11c95e9c1cee50bd {dots}
+              CA:
             </span>
           </div>
         </div>
