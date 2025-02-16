@@ -10,7 +10,7 @@ export default function Home() {
     { 
       title: 'EvoMind Token', 
       description: 'Discover the future of AI evolution through our innovative token ecosystem',
-      href: 'https://www.pump.fun/'
+      href: 'https://www.four.meme/'
     },
     { 
       title: 'Document', 
