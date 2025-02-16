@@ -10,7 +10,7 @@ export default function Home() {
     { 
       title: 'EvoMind Token', 
       description: 'Discover the future of AI evolution through our innovative token ecosystem',
-      href: 'https://www.four.meme/'
+      href: 'https://four.meme/token/0x02975a0995920c498a3ae6ca11c95e9c1cee50bd'
     },
     { 
       title: 'Document', 
